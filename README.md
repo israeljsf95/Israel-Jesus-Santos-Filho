@@ -31,7 +31,7 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
 - International Publication on INTERSPEECH (2020)
    
 
-#### 💻 Tools (Programming Language are just tools too) that I know:
+#### 💻 Tools (Programming Languages are just tools too) that I know:
 
 -  Matlab / Scilab
 -  Python
