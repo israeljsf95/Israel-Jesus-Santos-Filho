@@ -39,7 +39,7 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
 
 -  Matlab / Scilab
 -  Python
--  C / C++ (embedded development based on PIC and DSPIC architectures, also Arduino and STM32 (very few experience))
+-  C / C++ (embedded development based on PIC and DSPIC architectures, also Arduino and STM32 (very few experience on the last one))
 -  Verilog (XIILINX FPGA)
 -  SQL 
 
