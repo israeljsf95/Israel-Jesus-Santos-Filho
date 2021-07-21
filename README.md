@@ -29,7 +29,8 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
 (publications on my research gate)
 - National Publication on IX ENCOM: Conferência Nacional em Comunicações, Redes e Segurança da Informação (2019)
 - International Publication on INTERSPEECH (2020)
-   
+- Visitor Student Research Program at KAUST (King Abdullah University of Science and Technology) - May 2020 ~ February 2021 - Working on a novel algorithm based on quantum physics to do denoising and feature extraction/generation on pulsed shaped signals.
+  
 
 #### 💻 Tools (Programming Languages are just tools too) that I know:
 
