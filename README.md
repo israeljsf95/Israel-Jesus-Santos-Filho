@@ -23,7 +23,7 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
   - Signal Processing, Applied Math, Data Mining, Image Processing, Audio Processing, 
     NLP, Deep Learning - Math and Models, Numerical Methods, Mathematical Modelling,
     Computational Fluid Dynamics, Feature Extraction and Generation, Machine Learning,
-    BioMedical Engineering, Information Theoretical Learning.
+    BioMedical Engineering, Information Theoretical Learning and Dimensionality Reduction.
     
 #### 👨‍🎓 Research Achievements:
 (publications on my research gate)
