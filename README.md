@@ -25,13 +25,13 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
     Computational Fluid Dynamics, Feature Extraction and Generation, Machine Learning,
     BioMedical Engineering, Information Theoretical Learning.
     
-#### 👨‍🎓 Research Achivements:
+#### 👨‍🎓 Research Achievements:
 (publications on my research gate)
 - National Publication on IX ENCOM: Conferência Nacional em Comunicações, Redes e Segurança da Informação (2019): 
 - International Publication on INTERSPEECH (2020)
    
 
-#### 💻 Tools (Language Programming is just a tool too) that I know:
+#### 💻 Tools (Programming Language are just tools too) that I know:
 
 -  Matlab / Scilab
 -  Python
