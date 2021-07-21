@@ -20,7 +20,7 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
 - Research on Voice and Musical Signal Analysis
 - Math behind Deep Learining Models as a devote to the Manifold Hypothesis!!!
 - Research Interests: 
-    Signal Processing, Applied Math, Data Mining, Image Processing, Audio Processing, 
+  - Signal Processing, Applied Math, Data Mining, Image Processing, Audio Processing, 
     NLP, Deep Learning - Math and Models, Numerical Methods, Mathematical Modelling,
     Computational Fluid Dynamics, Feature Extraction and Generation, Machine Learning,
     BioMedical Engineering, Information Theoretical Learning.
@@ -29,6 +29,9 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
 (publications on my research gate)
 - National Publication on IX ENCOM: Conferência Nacional em Comunicações, Redes e Segurança da Informação (2019)
 - International Publication on INTERSPEECH (2020)
+- Special Student of the Pos Graduate Programming on Electric Engineer of Federal University of Sergipe: 
+  - Taked as Graded: Computer Vision (A grade), Non Linear Systems Analysis (A grade), Modeling and Simulation (B grade)
+  - Taked as Listener: Graph Theory, Speaker Recognition, Stochastic Simulation and Electronic Instrumentation.
 - Visitor Student Research Program at KAUST (King Abdullah University of Science and Technology) - May 2020 ~ February 2021 - Working on a novel algorithm based on quantum physics to do denoising and feature extraction/generation on pulsed shaped signals.
   
 
