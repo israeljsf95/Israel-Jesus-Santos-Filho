@@ -14,7 +14,7 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
     Everything is signal (image, audio (voice and music), text, DNA Sequence ...)!!!
 
 #### 🌐 Things that I am doing and Research Interests:
-- *Finishing my Degree* 🥳 
+- *Finished my Degree* 🥳 
 - Research and Developing Image Processing Techniques for automatic landmark identification at bee wings
 - Research on Context Modeling 
 - Research on Voice and Musical Signal Analysis
