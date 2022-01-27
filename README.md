@@ -10,7 +10,7 @@ Hello everyone and welcome! I am Israel and I am currently finishing my Electron
 I am an integrant of Biochaves Research Group as a Undergraduated Researcher on the fields: Signal Processing and Pattern Recognition
 
 ### My Research Group Theme:
-    If everything create by nature can be treated as signals, and with math we can understand signals, everything can be understandable with the right eye and the right math.
+    If everything created by nature can be treated as signals, and with math we can understand signals, everything can be understandable with the right eye and the right math.
     Everything is signal (image, audio (voice and music), text, DNA Sequence ...)!!!
 
 #### 🌐 Things that I am doing and Research Interests:
