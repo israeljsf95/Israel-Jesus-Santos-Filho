@@ -33,8 +33,8 @@ I am an integrant of Biochaves Research Group as a Undergraduated Researcher on 
   - Taked as Graded: Computer Vision (A grade), Non Linear Systems Analysis (A grade), Modeling and Simulation (B grade)
   - Taked as Listener: Graph Theory, Speaker Recognition, Stochastic Simulation and Electronic Instrumentation.
 - Visitor Student Research Program at KAUST (King Abdullah University of Science and Technology) - May 2020 ~ February 2021 - Working on a novel algorithm based on quantum physics to do denoising and feature extraction/generation on pulsed shaped signals.
-- Msc/PhD Candidate at CEMSE - KAUST Information System Lab -- https://cemse.kaust.edu.sa/isl
-
+- Msc in Electrical and Computer Engineering at CEMSE - KAUST Information System Lab -- https://cemse.kaust.edu.sa/isl
+- PhD Student at ISL and INRIA-Paris-Saclay
 
 #### 💻 Tools (Programming Languages are just tools too) that I know:
 
